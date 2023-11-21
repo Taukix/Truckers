@@ -18,6 +18,15 @@ Pour que le service puisse se lancer, il faut donner à l'application un fichier
 Le fichier "defaut.json" contient les configurations par défaut nécessaires pour le bon fonctionnement de l'application. Veillez à ne pas modifier ce fichier de manière inappropriée pour éviter tout problème de configuration.
 Vous pouvez relancer l'application, le service va se lancer et rester actif.
 
+---
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github.com/Taukix/Truckers/blob/main/ReadMe_Images/Logo.png" width="49%" height="400px;">
+    <img src="https://github.com/Taukix/Truckers/blob/main/ReadMe_Images/Fonctionnement.png" width="49%" height="400px;">
+</div>
+
+---
+
 ## Utilisation de l'Application
 
 1. **Recevoir des Messages :**
